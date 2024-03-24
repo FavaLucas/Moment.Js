@@ -1,0 +1,8 @@
+Crear una aplicacion React que contenga una sola pagina. 
+En esta pagina dividida en carts tenemos 5 cards cada uno mostrando el dia y la hora en distintas ciudades (Los angeles, Nueva York, Madrir ,  Moscu y Tokio ).
+Restricciones:
+Solo un state dentro del tsx conteniendo el current Date, sin setter
+const [fechaBase] = useState(valorInicial)
+
+El sistema debe ejecutarse correctamente independientemente de donde se ejecute (no siempre en argentina)
+Usar moment.js para soporte.  vs usar Luxon

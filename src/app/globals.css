@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(181, 181, 185);
+  
+}
+
+/* .tarjetas {
+  display: flex;
+  margin: 10px 10px 200px 10px;
+} */
+.tarjetas-UTC {  display: flex;
+  margin: 10px 10px 200px 10px;} 
